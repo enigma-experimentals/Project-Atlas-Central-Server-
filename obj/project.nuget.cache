@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GipbpoaeHN4=",
+  "success": true,
+  "projectFilePath": "/home/cyborgnetical/Documents/New-Cyberpatriot/Operations/Operation Cleanup/Project-Atlas (Central-Server)/Project-Atlas (Central-Server).csproj",
+  "expectedPackageFiles": [
+    "/home/cyborgnetical/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
